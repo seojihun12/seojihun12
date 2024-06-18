@@ -1,9 +1,10 @@
-## Hi there 👋
+## Hi my name is ji hun seo
+#  I transferred from the civil engineering department to the smart IT department.👋
 ## Use To Code
 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Java](https://img.shields.io/badge/Java-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Java](https://img.shields.io/badge/Java-F0DB4F?style=for-the-badge&labelColor=black&logo=java&logoColor=F0DB4F)
 
 
 
