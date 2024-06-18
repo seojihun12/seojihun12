@@ -1,4 +1,9 @@
 ## Hi there 👋
+## Use To Code
+
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 
 <!--
 **seojihun12/seojihun12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
